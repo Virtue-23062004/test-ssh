@@ -1,1 +1,1 @@
-doc di
+doc di khongo ddoc
